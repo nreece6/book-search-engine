@@ -1,1 +1,3 @@
 # book-search-engine
+
+This project is a currently non-functioning Google Book Search Engine. This application was refactored from a RESTful API to an Apollo API matching the MERN stack standards. The application works locally when running the NPM RUN DEVELOP script, but fails to function post build through Heroku. If you are able to determine why, any help would be greatly appreciated. Please contact me at reece.nick24@gmail.com

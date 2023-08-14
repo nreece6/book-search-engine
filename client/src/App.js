@@ -39,7 +39,7 @@ function App() {
           <Routes>
             <Route path='/' element={<SearchBooks />} />
             <Route path='/saved' element={<SavedBooks />} />
-            <Route pathe='*' element={() => <h1 className='display-2'>Wrong page!</h1>} />
+            <Route pathe='*' element={<h1 className='display-2'>Wrong page!</h1>} />
           </Routes>
         </>
       </Router>
